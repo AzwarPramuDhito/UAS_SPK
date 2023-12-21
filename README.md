@@ -4,11 +4,11 @@ Azwar Pramudhito Aaprilla Bachri
 07TPLP013
 
 ## Install Requirements
-'''pip install -r requierement.txt'''
+'pip install -r requierement.txt'
 
 ## Run the App
 untuk menjalankan:
-'''python main.py'''
+'python main.py'
 
 # Hasil
 
